@@ -1,0 +1,33 @@
+{
+    "countdown_duration": 5,
+    "articulation_durations": {
+        "short": 0.2,
+        "medium": 0.5,
+        "long": 1.0,
+        "transient": 0.05
+    },
+    "recording_computer_url": "http://recording-computer.local:5001",
+    "recording_computer_port": 5001,
+    "file_naming": {
+        "include_session_id": true,
+        "include_user_initials": false
+    },
+    "storage_management": {
+        "auto_cleanup": true,
+        "max_age_days": 30
+    },
+    "post_processing": {
+        "normalize_audio": true
+    },
+    "logging": {
+        "log_directory": "logs",
+        "log_to_file": true,
+        "log_level": "INFO"
+    },
+    "session_settings": {
+        "default_instrument": "guitar",
+        "default_note": "A4",
+        "default_frequency": 440.0,
+        "default_articulation": "long"
+    }
+}

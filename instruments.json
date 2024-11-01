@@ -1,0 +1,332 @@
+{
+    "instruments": [
+        {
+            "name": "guitar",
+            "type": "string",
+            "range": {
+                "lowest_note": "E2",
+                "highest_note": "E6"
+            },
+            "default_articulations": [
+                "short",
+                "medium",
+                "long",
+                "transient"
+            ]
+        },
+        {
+            "name": "bass guitar",
+            "type": "string",
+            "range": {
+                "lowest_note": "E1",
+                "highest_note": "G4"
+            },
+            "default_articulations": [
+                "short",
+                "medium",
+                "long"
+            ]
+        },
+        {
+            "name": "5-string bass guitar",
+            "type": "string",
+            "range": {
+                "lowest_note": "B0",
+                "highest_note": "G4"
+            },
+            "default_articulations": [
+                "short",
+                "medium",
+                "long"
+            ]
+        },
+        {
+            "name": "violin",
+            "type": "string",
+            "range": {
+                "lowest_note": "G3",
+                "highest_note": "A7"
+            },
+            "default_articulations": [
+                "short",
+                "medium",
+                "long",
+                "vibrato"
+            ]
+        },
+        {
+            "name": "double bass",
+            "type": "string",
+            "range": {
+                "lowest_note": "E1",
+                "highest_note": "C4"
+            },
+            "default_articulations": [
+                "short",
+                "medium",
+                "long"
+            ]
+        },
+        {
+            "name": "trumpet",
+            "type": "brass",
+            "range": {
+                "lowest_note": "F#3",
+                "highest_note": "D6"
+            },
+            "default_articulations": [
+                "short",
+                "long",
+                "staccato",
+                "legato"
+            ]
+        },
+        {
+            "name": "saxophone",
+            "type": "woodwind",
+            "range": {
+                "lowest_note": "Bb2",
+                "highest_note": "F6"
+            },
+            "default_articulations": [
+                "short",
+                "long",
+                "staccato",
+                "legato"
+            ]
+        },
+        {
+            "name": "piano",
+            "type": "keyboard",
+            "range": {
+                "lowest_note": "A0",
+                "highest_note": "C8"
+            },
+            "default_articulations": [
+                "short",
+                "long"
+            ]
+        },
+        {
+            "name": "mandolin",
+            "type": "string",
+            "range": {
+                "lowest_note": "G3",
+                "highest_note": "E6"
+            },
+            "default_articulations": [
+                "short",
+                "medium",
+                "long"
+            ]
+        },
+        {
+            "name": "flute",
+            "type": "woodwind",
+            "range": {
+                "lowest_note": "C4",
+                "highest_note": "C7"
+            },
+            "default_articulations": [
+                "short",
+                "long",
+                "staccato",
+                "legato"
+            ]
+        },
+        {
+            "name": "clarinet",
+            "type": "woodwind",
+            "range": {
+                "lowest_note": "E3",
+                "highest_note": "A6"
+            },
+            "default_articulations": [
+                "short",
+                "long",
+                "staccato",
+                "legato"
+            ]
+        },
+        {
+            "name": "trombone",
+            "type": "brass",
+            "range": {
+                "lowest_note": "E2",
+                "highest_note": "Bb5"
+            },
+            "default_articulations": [
+                "short",
+                "long",
+                "staccato",
+                "legato"
+            ]
+        }
+    ]
+}
+{
+    "instruments": [
+        {
+            "name": "guitar",
+            "type": "string",
+            "range": {
+                "lowest_note": "E2",
+                "highest_note": "E6"
+            },
+            "default_articulations": [
+                "short",
+                "medium",
+                "long",
+                "transient"
+            ]
+        },
+        {
+            "name": "bass guitar",
+            "type": "string",
+            "range": {
+                "lowest_note": "E1",
+                "highest_note": "G4"
+            },
+            "default_articulations": [
+                "short",
+                "medium",
+                "long"
+            ]
+        },
+        {
+            "name": "5-string bass guitar",
+            "type": "string",
+            "range": {
+                "lowest_note": "B0",
+                "highest_note": "G4"
+            },
+            "default_articulations": [
+                "short",
+                "medium",
+                "long"
+            ]
+        },
+        {
+            "name": "violin",
+            "type": "string",
+            "range": {
+                "lowest_note": "G3",
+                "highest_note": "A7"
+            },
+            "default_articulations": [
+                "short",
+                "medium",
+                "long",
+                "vibrato"
+            ]
+        },
+        {
+            "name": "double bass",
+            "type": "string",
+            "range": {
+                "lowest_note": "E1",
+                "highest_note": "C4"
+            },
+            "default_articulations": [
+                "short",
+                "medium",
+                "long"
+            ]
+        },
+        {
+            "name": "trumpet",
+            "type": "brass",
+            "range": {
+                "lowest_note": "F#3",
+                "highest_note": "D6"
+            },
+            "default_articulations": [
+                "short",
+                "long",
+                "staccato",
+                "legato"
+            ]
+        },
+        {
+            "name": "saxophone",
+            "type": "woodwind",
+            "range": {
+                "lowest_note": "Bb2",
+                "highest_note": "F6"
+            },
+            "default_articulations": [
+                "short",
+                "long",
+                "staccato",
+                "legato"
+            ]
+        },
+        {
+            "name": "piano",
+            "type": "keyboard",
+            "range": {
+                "lowest_note": "A0",
+                "highest_note": "C8"
+            },
+            "default_articulations": [
+                "short",
+                "long"
+            ]
+        },
+        {
+            "name": "mandolin",
+            "type": "string",
+            "range": {
+                "lowest_note": "G3",
+                "highest_note": "E6"
+            },
+            "default_articulations": [
+                "short",
+                "medium",
+                "long"
+            ]
+        },
+        {
+            "name": "flute",
+            "type": "woodwind",
+            "range": {
+                "lowest_note": "C4",
+                "highest_note": "C7"
+            },
+            "default_articulations": [
+                "short",
+                "long",
+                "staccato",
+                "legato"
+            ]
+        },
+        {
+            "name": "clarinet",
+            "type": "woodwind",
+            "range": {
+                "lowest_note": "E3",
+                "highest_note": "A6"
+            },
+            "default_articulations": [
+                "short",
+                "long",
+                "staccato",
+                "legato"
+            ]
+        },
+        {
+            "name": "trombone",
+            "type": "brass",
+            "range": {
+                "lowest_note": "E2",
+                "highest_note": "Bb5"
+            },
+            "default_articulations": [
+                "short",
+                "long",
+                "staccato",
+                "legato"
+            ]
+        }
+    ]
+}
